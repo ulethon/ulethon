@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/ulethon">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=CTI+%7C+OSINT+%7C+SOCMINT+%7C+HUMINT+%7C+DARKINT+DW-CI;Tools+Automation+%7C+Open+Source+Contributer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=CTI+%7C+OSINT+%7C+SOCMINT+%7C+HUMINT+%7C+DARKINT;Tools+Automation+%7C+Open+Source+Contributer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,11 @@
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,github,git,vscode,regex" />
+  <img src="https://img.shields.io/badge/Threat%20Actor%20Profiling-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Malware%20Analysis-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSINT%20%26%20SOCMINT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dark%20Web%20Monitoring-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat%20Intel%20Frameworks-orange?style=for-the-badge" />
 </p>
 
 ---
