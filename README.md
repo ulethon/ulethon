@@ -42,33 +42,36 @@
 
 ---
 
-<!-- GitHub Stats -->
+---
+
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulethon&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulethon&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ulethon&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulethon&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 ---
----
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github.com/ulethon/ulethon/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="600" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulethon&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph"/>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/ulethon">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/pushprajthakre/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ulethon@protonmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
+  <a href="https://github.com/ulethon/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/ulethon">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" alt="Twitter / X"/>
+  </a>
+  <a href="https://medium.com/@ulethon/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="40" height="40" alt="Medium"/>
   </a>
 </p>
 
