@@ -50,19 +50,26 @@
 </p>
 
 ---
+---
 
-<!-- Snake Animation -->
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/ulethon/ulethon/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/ulethon/ulethon/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="600" />
 </p>
 
 ---
 
-<!-- Connect -->
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/ulethon"><img src="https://img.shields.io/badge/GitHub-ulethon-black?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/pushprajthakre/"><img src="https://img.shields.io/badge/LinkedIn-Pushpraj%20Thakre-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:ulethon@protonmail.com"><img src="https://img.shields.io/badge/Email-ulethon@protonmail.com-red?style=for-the-badge&logo=protonmail"></a>
+  <a href="https://github.com/ulethon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pushprajthakre/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ulethon@protonmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
+  </a>
 </p>
+
+---
