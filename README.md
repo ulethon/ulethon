@@ -1,0 +1,64 @@
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/ulethon">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Cyber+Threat+Intelligence;OSINT+%7C+SOCMINT+%7C+HUMINT;Dark+Web+Counter+Intelligence;Automation+%7C+CTI+Hub+Creation;Open+Source+Researcher" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Profile Header -->
+<h1 align="center">👽 Hey, I'm Pushpraj Thakre (ulethon)</h1>
+<h3 align="center">Cyber Threat Intelligence | Researcher | Open-Source Contributor</h3>
+
+---
+
+<!-- About Me -->
+## 🚀 About Me
+- 🔍 Passionate about **Cyber Threat Intelligence (CTI)** and security research.  
+- ⚡ Focused on **automation pipelines** for OSINT, SOCMINT, HUMINT, and DW-CI.  
+- 🛡️ Building **Threat Intelligence Hubs** and tooling for defenders.  
+- 🌐 Contributor to open-source intelligence and **counter-intelligence automation**.  
+
+---
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,github,git,vscode,regex" />
+</p>
+
+---
+
+<!-- Projects -->
+## 📂 Featured Projects
+| Repository | Description |
+|------------|-------------|
+| 🔹 [CTI-AUTOMATION](https://github.com/ulethon/CTI-AUTOMATION) | Automating Cyber Threat Intelligence workflows (OSINT, SOCMINT, HUMINT, DW-CI, Threat Intel Hub). |
+| 🔹 [deepdarkCTI](https://github.com/ulethon/deepdarkCTI) | CTI sources from the **deep & dark web** for researchers. |
+| 🔹 [awesome-osint](https://github.com/ulethon/awesome-osint) | A curated list of **OSINT resources** for investigators. |
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ulethon&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulethon&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+<!-- Snake Animation -->
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/ulethon/ulethon/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<!-- Connect -->
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/ulethon"><img src="https://img.shields.io/badge/GitHub-ulethon-black?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/pushpraj-thakre"><img src="https://img.shields.io/badge/LinkedIn-Pushpraj%20Thakre-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:ulethon@protonmail.com"><img src="https://img.shields.io/badge/Email-ulethon@protonmail.com-red?style=for-the-badge&logo=protonmail"></a>
+</p>
