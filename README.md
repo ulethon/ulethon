@@ -47,7 +47,6 @@
 ## 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ulethon&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulethon&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 ---
