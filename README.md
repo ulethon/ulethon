@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/ulethon">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Cyber+Threat+Intelligence;OSINT+%7C+SOCMINT+%7C+HUMINT;Dark+Web+Counter+Intelligence;Automation+%7C+CTI+Hub+Creation;Open+Source+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=C+T+I;OSINT+%7C+SOCMINT+%7C+HUMINT;DARKINT+DW-CI;Tools+Automation;Open+Source+Contributer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -59,6 +59,6 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/ulethon"><img src="https://img.shields.io/badge/GitHub-ulethon-black?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/pushpraj-thakre"><img src="https://img.shields.io/badge/LinkedIn-Pushpraj%20Thakre-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/pushprajthakre/"><img src="https://img.shields.io/badge/LinkedIn-Pushpraj%20Thakre-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:ulethon@protonmail.com"><img src="https://img.shields.io/badge/Email-ulethon@protonmail.com-red?style=for-the-badge&logo=protonmail"></a>
 </p>
