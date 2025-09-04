@@ -32,20 +32,19 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/pushprajthakre/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/pushprajthakre/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" style="margin: 0 15px;" />
   </a>
-  <a href="https://github.com/ulethon/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <a href="https://github.com/ulethon/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" style="margin: 0 15px;" />
   </a>
-  <a href="https://x.com/ulethon">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" alt="Twitter / X"/>
+  <a href="https://x.com/ulethon" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="45" height="45" alt="X (Twitter)" style="margin: 0 15px;" />
   </a>
-  <a href="https://medium.com/@ulethon/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="40" height="40" alt="Medium"/>
+  <a href="https://medium.com/@ulethon/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="45" height="45" alt="Medium" style="margin: 0 15px;" />
   </a>
 </p>
-
----
