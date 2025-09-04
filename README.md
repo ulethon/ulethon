@@ -12,7 +12,7 @@
 ---
 
 <!-- About Me -->
-## 🚀 About Me
+##  WHOAMI
 - 🔍 Passionate about **Cyber Threat Intelligence (CTI)** and security research.  
 - ⚡ Focused on **automation pipelines** for OSINT, SOCMINT, HUMINT, and DW-CI.  
 - 🛡️ Building **Threat Intelligence Hubs** and tooling for defenders.  
@@ -36,15 +36,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pushprajthakre/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" alt="LinkedIn" style="margin: 0 15px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ulethon/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="48" height="48" alt="GitHub" style="margin: 0 15px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="48" height="48" alt="GitHub" />
   </a>
   <a href="https://x.com/ulethon" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="48" height="48" alt="X (Twitter)" style="margin: 0 15px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="48" height="48" alt="X (Twitter)" />
   </a>
   <a href="https://medium.com/@ulethon/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="48" height="48" alt="Medium" style="margin: 0 15px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="48" height="48" alt="Medium" />
   </a>
 </p>
