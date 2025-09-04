@@ -36,15 +36,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pushprajthakre/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" style="margin: 0 15px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" alt="LinkedIn" style="margin: 0 15px;" />
   </a>
   <a href="https://github.com/ulethon/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" style="margin: 0 15px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="48" height="48" alt="GitHub" style="margin: 0 15px;" />
   </a>
   <a href="https://x.com/ulethon" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="45" height="45" alt="X (Twitter)" style="margin: 0 15px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="48" height="48" alt="X (Twitter)" style="margin: 0 15px;" />
   </a>
   <a href="https://medium.com/@ulethon/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="45" height="45" alt="Medium" style="margin: 0 15px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="48" height="48" alt="Medium" style="margin: 0 15px;" />
   </a>
 </p>
