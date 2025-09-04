@@ -12,7 +12,7 @@
 ---
 
 <!-- About Me -->
-##  WHOAMI
+## 🚀 WHOAMI
 - 🔍 Passionate about **Cyber Threat Intelligence (CTI)** and security research.  
 - ⚡ Focused on **automation pipelines** for OSINT, SOCMINT, HUMINT, and DW-CI.  
 - 🛡️ Building **Threat Intelligence Hubs** and tooling for defenders.  
