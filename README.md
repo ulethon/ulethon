@@ -32,32 +32,6 @@
 
 ---
 
-<!-- Projects -->
-## 📂 Featured Projects
-| Repository | Description |
-|------------|-------------|
-| 🔹 [CTI-AUTOMATION](https://github.com/ulethon/CTI-AUTOMATION) | Automating Cyber Threat Intelligence workflows (OSINT, SOCMINT, HUMINT, DW-CI, Threat Intel Hub). |
-| 🔹 [deepdarkCTI](https://github.com/ulethon/deepdarkCTI) | CTI sources from the **deep & dark web** for researchers. |
-| 🔹 [awesome-osint](https://github.com/ulethon/awesome-osint) | A curated list of **OSINT resources** for investigators. |
-
----
-
----
-
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulethon&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulethon&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/pushprajthakre/">
