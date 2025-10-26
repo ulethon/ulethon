@@ -7,7 +7,7 @@
 
 <!-- Profile Header -->
 <h1 align="center">👽 Hey, I'm Pushpraj Thakre (ulethon)</h1>
-<h3 align="center">Cyber Threat Intelligence | Researcher | Open-Source Contributor</h3>
+<h3 align="center">CTI | Researcher | Open-Source Contributor</h3>
 
 ---
 
@@ -23,10 +23,10 @@
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Threat%20Actor%20Profiling-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Malware%20Analysis-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OSINT%20%26%20SOCMINT-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dark%20Web%20Monitoring-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat%20%26%20Darkweb%20Research-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DFIR-Purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSINT%20%26%20SOCMINT%20%26%20HUMINT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CTI%20Hunter-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Threat%20Intel%20Frameworks-orange?style=for-the-badge" />
 </p>
 
