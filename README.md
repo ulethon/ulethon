@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/ulethon">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=CTI+%7C+OSINT+%7C+SOCMINT+%7C+HUMINT+%7C+DARKINT;Tools+Automation+%7C+Open+Source+Contributer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=CTI+%7C+OSINT+%7C+SOCMINT+%7C+HUMINT+%7C+DARKINT;DFIR+%7C+Open+Source+Contributer" alt="Typing SVG" />
   </a>
 </p>
 
