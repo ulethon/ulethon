@@ -6,7 +6,7 @@
 </p>
 
 <!-- Profile Header -->
-<h1 align="center">👽 Hey, I'm Pushpraj Thakre (ulethon)</h1>
+<h1 align="center">👽 Hey, I'm ULETHON </h1>
 <h3 align="center">CTI | Researcher | Open-Source Contributor</h3>
 
 ---
